@@ -27,7 +27,7 @@ Ce dashboard permet d’identifier rapidement :
 
 ##  Contenu du dépôt
 - `analyse des ventes.twbx` : fichier Tableau du projet.
-- `screenshots/` : captures d’écran du dashboard.
+- captures d’écran du dashboard.
 - `README.md` : documentation du projet.
 - 'Sample - Superstore.csv' : ensemble de donnée utilisé
 ---
